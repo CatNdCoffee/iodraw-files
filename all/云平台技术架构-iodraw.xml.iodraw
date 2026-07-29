@@ -53,7 +53,7 @@
           <mxGeometry x="988" y="170" width="49" height="454" as="geometry" />
         </mxCell>
         <mxCell id="security-management-system" value="服务状态监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="172" width="49" height="454" as="geometry" />
+          <mxGeometry x="1040" y="170" width="49" height="454" as="geometry" />
         </mxCell>
         <mxCell id="abnjiYCYy8gDk6c_inpo-2" value="传输层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="7" y="170" width="86" height="84" as="geometry" />
@@ -97,7 +97,7 @@
         <mxCell id="form-engine" value="表单引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="abnjiYCYy8gDk6c_inpo-11" vertex="1">
           <mxGeometry x="219" y="55" width="134" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="abnjiYCYy8gDk6c_inpo-12" value="Druid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="abnjiYCYy8gDk6c_inpo-12" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="500" y="323" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="abnjiYCYy8gDk6c_inpo-13" value="多租户数据隔离" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
