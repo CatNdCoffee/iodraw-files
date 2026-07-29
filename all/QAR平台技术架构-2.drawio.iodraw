@@ -8,7 +8,7 @@
           <mxGeometry x="10" width="110" height="119" as="geometry" />
         </mxCell>
         <mxCell id="edge-layer-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="10" y="119" width="755" height="119" as="geometry" />
+          <mxGeometry x="10" y="119" width="110" height="401" as="geometry" />
         </mxCell>
         <mxCell id="edge-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="144" y="17" width="707" height="85" as="geometry" />
