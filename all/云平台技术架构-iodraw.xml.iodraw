@@ -109,12 +109,6 @@
         <mxCell id="message-queue" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="779" y="478" width="125" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="iaas-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="124" y="545" width="854" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="iaas-label" value="IaaS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="124" y="546" width="79" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="caac-cloud-platform" value="中航云平台（私有云）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="234" y="561" width="670" height="39" as="geometry" />
         </mxCell>
