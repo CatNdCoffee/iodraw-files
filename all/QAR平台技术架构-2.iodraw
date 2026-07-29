@@ -94,7 +94,7 @@
         <mxCell id="technical-standard-system" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="19.5" width="49" height="612" as="geometry" />
         </mxCell>
-        <mxCell id="c6ZVoJpc2Czuq2fCnJcK-1" value="服务状态监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+        <mxCell id="c6ZVoJpc2Czuq2fCnJcK-1" value="服务状态监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="20" width="49" height="612" as="geometry" />
         </mxCell>
       </root>
