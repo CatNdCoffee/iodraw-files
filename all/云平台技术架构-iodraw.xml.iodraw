@@ -5,82 +5,82 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="service-label" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="14" y="20" width="86" height="254" as="geometry" />
+          <mxGeometry x="11" y="120" width="86" height="254" as="geometry" />
         </mxCell>
         <mxCell id="service-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="100" y="20" width="910" height="250" as="geometry" />
+          <mxGeometry x="97" y="124" width="910" height="250" as="geometry" />
         </mxCell>
         <mxCell id="framework-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="124" y="37" width="363" height="105" as="geometry" />
+          <mxGeometry x="121" y="141" width="363" height="105" as="geometry" />
         </mxCell>
         <mxCell id="framework-label" value="技术&lt;br&gt;框架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="134" y="53" width="61" height="72" as="geometry" />
+          <mxGeometry x="131" y="157" width="61" height="72" as="geometry" />
         </mxCell>
         <mxCell id="spring-cloud" value="SpringCloud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="202" y="46" width="134" height="40" as="geometry" />
+          <mxGeometry x="199" y="150" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mybatis-plus" value="MyBatisPlus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="342" y="46" width="134" height="40" as="geometry" />
+          <mxGeometry x="339" y="150" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sentinel" value="Sentinel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="202" y="92" width="134" height="40" as="geometry" />
+          <mxGeometry x="199" y="196" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nacos" value="Nacos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="342" y="92" width="134" height="40" as="geometry" />
+          <mxGeometry x="339" y="196" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="component-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="493" y="37" width="363" height="105" as="geometry" />
+          <mxGeometry x="490" y="141" width="363" height="105" as="geometry" />
         </mxCell>
         <mxCell id="component-label" value="基础&lt;br&gt;组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="503" y="53" width="61" height="72" as="geometry" />
+          <mxGeometry x="500" y="157" width="61" height="72" as="geometry" />
         </mxCell>
         <mxCell id="process-engine" value="流程引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="572" y="46" width="134" height="40" as="geometry" />
+          <mxGeometry x="569" y="150" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rule-engine" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="712" y="46" width="134" height="40" as="geometry" />
+          <mxGeometry x="709" y="150" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="report-engine" value="报表引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="572" y="92" width="134" height="40" as="geometry" />
+          <mxGeometry x="569" y="196" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="form-engine" value="表单引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="712" y="92" width="134" height="40" as="geometry" />
+          <mxGeometry x="709" y="196" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="monitoring-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="124" y="150" width="363" height="105" as="geometry" />
+          <mxGeometry x="121" y="254" width="363" height="105" as="geometry" />
         </mxCell>
         <mxCell id="monitoring-label" value="日志&lt;br&gt;监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="134" y="166" width="61" height="72" as="geometry" />
+          <mxGeometry x="131" y="270" width="61" height="72" as="geometry" />
         </mxCell>
         <mxCell id="elk" value="ELK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="202" y="159" width="134" height="40" as="geometry" />
+          <mxGeometry x="199" y="263" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="skywalking" value="SkyWalking" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="342" y="159" width="134" height="40" as="geometry" />
+          <mxGeometry x="339" y="263" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="prometheus" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="202" y="205" width="134" height="40" as="geometry" />
+          <mxGeometry x="199" y="309" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="grafana" value="Grafana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="342" y="205" width="134" height="40" as="geometry" />
+          <mxGeometry x="339" y="309" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="auth-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="493" y="150" width="363" height="105" as="geometry" />
+          <mxGeometry x="490" y="254" width="363" height="105" as="geometry" />
         </mxCell>
         <mxCell id="auth-label" value="认证&lt;br&gt;授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="503" y="166" width="61" height="72" as="geometry" />
+          <mxGeometry x="500" y="270" width="61" height="72" as="geometry" />
         </mxCell>
         <mxCell id="oauth2" value="OAuth2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="572" y="159" width="134" height="40" as="geometry" />
+          <mxGeometry x="569" y="263" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="https" value="HTTPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="712" y="159" width="134" height="40" as="geometry" />
+          <mxGeometry x="709" y="263" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sa-token" value="Sa-Token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="572" y="205" width="134" height="40" as="geometry" />
+          <mxGeometry x="569" y="309" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="session-management" value="会话管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="712" y="205" width="134" height="40" as="geometry" />
+          <mxGeometry x="709" y="309" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="infrastructure-label" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="14" y="448" width="86" height="184" as="geometry" />
