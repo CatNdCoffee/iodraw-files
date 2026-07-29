@@ -13,8 +13,8 @@
         <mxCell id="94O3WUpFbOZbMWMEopZy-5" value="业务系统权限认证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A61D4;" vertex="1" parent="1">
           <mxGeometry x="50" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="94O3WUpFbOZbMWMEopZy-6" value="用户请求" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A61D4;" vertex="1" parent="1">
-          <mxGeometry x="140" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="94O3WUpFbOZbMWMEopZy-6" value="租户A" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A61D4;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
