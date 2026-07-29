@@ -25,9 +25,6 @@
         <mxCell id="file-sending" value="文件发送" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="650" y="50" width="180" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="file-storage-layer-label" value="文件&lt;br&gt;存储层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="14" y="143" width="110" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="file-storage-layer-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="124" y="143" width="755" height="119" as="geometry" />
         </mxCell>
@@ -103,7 +100,7 @@
         <mxCell id="K6V5xHbPf51wfoqCP4qL-2" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="535" y="418" width="105" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="K6V5xHbPf51wfoqCP4qL-3" value="TaurusDB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="K6V5xHbPf51wfoqCP4qL-3" value="OBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="655" y="419" width="180" height="59" as="geometry" />
         </mxCell>
       </root>
