@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="abnjiYCYy8gDk6c_inpo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="96" y="412" width="907" height="82" as="geometry" />
+          <mxGeometry x="93" y="20" width="907" height="82" as="geometry" />
         </mxCell>
         <mxCell id="service-label" value="业务处理层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="7" y="130" width="86" height="254" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="1061" y="20" width="49" height="612" as="geometry" />
         </mxCell>
         <mxCell id="abnjiYCYy8gDk6c_inpo-2" value="传输层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="10" y="410" width="86" height="84" as="geometry" />
+          <mxGeometry x="7" y="18" width="86" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
