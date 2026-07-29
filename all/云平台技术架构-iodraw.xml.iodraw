@@ -103,7 +103,7 @@
         <mxCell id="message-queue" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="800" y="189" width="125" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="technical-standard-system" value="技&lt;br&gt;术&lt;br&gt;标&lt;br&gt;准&lt;br&gt;体&lt;br&gt;系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+        <mxCell id="technical-standard-system" value="E&lt;div&gt;L&lt;/div&gt;&lt;div&gt;K&lt;/div&gt;&lt;div&gt;日志管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1011" y="170" width="49" height="462" as="geometry" />
         </mxCell>
         <mxCell id="security-management-system" value="安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;体&lt;br&gt;系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
