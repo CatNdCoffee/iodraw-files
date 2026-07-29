@@ -77,7 +77,7 @@
           <mxGeometry x="376.87" y="251.14" width="133.13" height="63.06" as="geometry" />
         </mxCell>
         <mxCell id="mrs-spark-cluster" value="MRS（Spark）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="619.0407514450867" y="251.13763540290626" width="228.5722543352601" height="65.23117569352709" as="geometry" />
+          <mxGeometry x="690" y="251.14" width="157.61" height="65.23" as="geometry" />
         </mxCell>
         <mxCell id="K6V5xHbPf51wfoqCP4qL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="582.5028901734104" y="520.607001321004" width="282.1040462427746" height="92.4108322324967" as="geometry" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="K6V5xHbPf51wfoqCP4qL-4" value="数据转译" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="534.0696531791908" y="373.0484015852048" width="143.60115606936418" height="64.14398943196831" as="geometry" />
+        </mxCell>
+        <mxCell id="UQPZ9Tl1WvPhQjq1R6R9-4" value="任务编排" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="528.97" y="254.4" width="141.03" height="63.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
