@@ -44,19 +44,19 @@
           <mxGeometry x="-419" y="320" width="265" height="59" as="geometry" />
         </mxCell>
         <mxCell id="data-storage-layer-label" value="数据&lt;br&gt;存储层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="14" y="149" width="110" height="119" as="geometry" />
+          <mxGeometry x="20" y="500" width="110" height="119" as="geometry" />
         </mxCell>
         <mxCell id="data-storage-layer-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="124" y="149" width="755" height="119" as="geometry" />
+          <mxGeometry x="130" y="500" width="755" height="119" as="geometry" />
         </mxCell>
         <mxCell id="data-storage-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="148" y="166" width="332" height="85" as="geometry" />
+          <mxGeometry x="154" y="517" width="332" height="85" as="geometry" />
         </mxCell>
         <mxCell id="taurusdb-label" value="结构化数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="160" y="178" width="105" height="61" as="geometry" />
+          <mxGeometry x="166" y="529" width="105" height="61" as="geometry" />
         </mxCell>
         <mxCell id="raw-qar-storage" value="TaurusDB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="280" y="179" width="180" height="59" as="geometry" />
+          <mxGeometry x="286" y="530" width="180" height="59" as="geometry" />
         </mxCell>
         <mxCell id="analytics-layer-label" value="计算&lt;br&gt;分析层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="14" y="272" width="110" height="120" as="geometry" />
@@ -83,13 +83,13 @@
           <mxGeometry x="970" y="19.5" width="49" height="612" as="geometry" />
         </mxCell>
         <mxCell id="K6V5xHbPf51wfoqCP4qL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" vertex="1" parent="1">
-          <mxGeometry x="523" y="166" width="332" height="85" as="geometry" />
+          <mxGeometry x="529" y="517" width="332" height="85" as="geometry" />
         </mxCell>
         <mxCell id="K6V5xHbPf51wfoqCP4qL-2" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="535" y="178" width="105" height="61" as="geometry" />
+          <mxGeometry x="541" y="529" width="105" height="61" as="geometry" />
         </mxCell>
         <mxCell id="K6V5xHbPf51wfoqCP4qL-3" value="OBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="655" y="179" width="180" height="59" as="geometry" />
+          <mxGeometry x="661" y="530" width="180" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
