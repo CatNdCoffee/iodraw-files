@@ -14,19 +14,22 @@
           <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TxBPybkL9xY6AFVczSPT-2" value="应用版本V1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2B3DE3;" vertex="1" parent="1">
-          <mxGeometry x="220" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TxBPybkL9xY6AFVczSPT-3" value="应用版本V2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2B3DE3;" vertex="1" parent="1">
-          <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TxBPybkL9xY6AFVczSPT-4" value="应用版本A" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2B3DE3;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TxBPybkL9xY6AFVczSPT-5" value="用户A" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2B3DE3;" vertex="1" parent="1">
-          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TxBPybkL9xY6AFVczSPT-6" value="用户B" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2B3DE3;" vertex="1" parent="1">
-          <mxGeometry x="460" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TxBPybkL9xY6AFVczSPT-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
