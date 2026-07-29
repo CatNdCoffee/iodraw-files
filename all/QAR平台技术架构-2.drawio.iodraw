@@ -38,7 +38,7 @@
           <mxGeometry x="166" y="282" width="105" height="61" as="geometry" />
         </mxCell>
         <mxCell id="data-cleaning" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="286" y="283" width="144" height="59" as="geometry" />
+          <mxGeometry x="286" y="283" width="164" height="59" as="geometry" />
         </mxCell>
         <mxCell id="data-loading" value="监控统计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="656" y="282" width="139" height="59" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="661" y="542.5" width="180" height="59" as="geometry" />
         </mxCell>
         <mxCell id="K6V5xHbPf51wfoqCP4qL-4" value="规则控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="471" y="282" width="139" height="59" as="geometry" />
+          <mxGeometry x="471" y="282" width="159" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
