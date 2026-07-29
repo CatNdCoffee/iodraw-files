@@ -112,6 +112,9 @@
         <mxCell id="abnjiYCYy8gDk6c_inpo-2" value="传输层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="7" y="170" width="86" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="abnjiYCYy8gDk6c_inpo-8" value="Druid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="335" y="306" width="134" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
