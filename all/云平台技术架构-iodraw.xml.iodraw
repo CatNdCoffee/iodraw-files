@@ -74,13 +74,10 @@
           <mxGeometry x="496" y="420" width="61" height="72" as="geometry" />
         </mxCell>
         <mxCell id="oauth2" value="OAuth2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="565" y="413" width="134" height="40" as="geometry" />
+          <mxGeometry x="560" y="436" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="https" value="HTTPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="705" y="413" width="134" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sa-token" value="Sa-Token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="565" y="459" width="134" height="40" as="geometry" />
+          <mxGeometry x="705" y="436" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="infrastructure-label" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="11" y="540" width="86" height="84" as="geometry" />
