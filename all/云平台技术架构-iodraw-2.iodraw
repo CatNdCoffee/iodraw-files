@@ -20,16 +20,16 @@
           <mxGeometry x="127" y="307" width="61" height="72" as="geometry" />
         </mxCell>
         <mxCell id="spring-cloud" value="SpringGateWay" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="480" y="192" width="134" height="40" as="geometry" />
+          <mxGeometry x="493.5" y="190.5" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mybatis-plus" value="MyBatisPlus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="200" y="323" width="134" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sentinel" value="Sentinel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="sentinel" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="115.5" y="193.5" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nacos" value="ESC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="290" y="193" width="134" height="40" as="geometry" />
+          <mxGeometry x="304.5" y="193.5" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="infrastructure-label" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="11" y="540" width="86" height="84" as="geometry" />
