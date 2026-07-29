@@ -91,33 +91,6 @@
         <mxCell id="mrs-spark-cluster" value="MRS（Spark）计算集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="565" y="542" width="265" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="devops-title" value="DevOps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=22;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="895" y="27" width="104" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="artifact-management" value="制品管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="895" y="78" width="104" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="requirements-management" value="需求管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="895" y="169" width="104" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="continuous-integration" value="持续集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="895" y="260" width="104" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="continuous-delivery" value="持续发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="895" y="351" width="104" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="code-management" value="代码管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="895" y="442" width="104" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="private-repository-management" value="私库管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="895" y="533" width="104" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="technical-standard-system" value="技&lt;br&gt;术&lt;br&gt;标&lt;br&gt;准&lt;br&gt;体&lt;br&gt;系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1011" y="20" width="49" height="612" as="geometry" />
-        </mxCell>
-        <mxCell id="security-management-system" value="安&lt;br&gt;全&lt;br&gt;管&lt;br&gt;理&lt;br&gt;体&lt;br&gt;系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1061" y="20" width="49" height="612" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
