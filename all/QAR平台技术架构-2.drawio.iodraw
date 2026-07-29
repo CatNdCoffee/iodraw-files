@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="edge-layer-label" value="边缘&lt;br&gt;服务器层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="10" width="110" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="edge-layer-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="10" y="119" width="110" height="401" as="geometry" />
-        </mxCell>
         <mxCell id="edge-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="144" y="17" width="707" height="85" as="geometry" />
         </mxCell>
@@ -90,6 +84,15 @@
         </mxCell>
         <mxCell id="K6V5xHbPf51wfoqCP4qL-4" value="数据转译" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="UQPZ9Tl1WvPhQjq1R6R9-1" vertex="1">
           <mxGeometry x="383.21965317919074" y="31.528401585204758" width="143.60115606936418" height="64.14398943196831" as="geometry" />
+        </mxCell>
+        <mxCell id="UQPZ9Tl1WvPhQjq1R6R9-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="111.5" width="110" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-layer-label" value="边缘&lt;br&gt;服务器层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="UQPZ9Tl1WvPhQjq1R6R9-3" vertex="1">
+          <mxGeometry width="110" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-layer-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="UQPZ9Tl1WvPhQjq1R6R9-3" vertex="1">
+          <mxGeometry y="119" width="110" height="401" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
