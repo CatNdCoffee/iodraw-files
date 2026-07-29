@@ -19,8 +19,8 @@
         <mxCell id="TxBPybkL9xY6AFVczSPT-3" value="应用版本V2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2B3DE3;" vertex="1" parent="1">
           <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TxBPybkL9xY6AFVczSPT-4" value="应用版本A" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2B3DE3;" vertex="1" parent="1">
-          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="TxBPybkL9xY6AFVczSPT-4" value="GateWay灰度路由" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2B3DE3;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TxBPybkL9xY6AFVczSPT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TxBPybkL9xY6AFVczSPT-5" target="TxBPybkL9xY6AFVczSPT-2">
           <mxGeometry relative="1" as="geometry" />
