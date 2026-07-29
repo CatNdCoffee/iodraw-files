@@ -71,7 +71,7 @@
           <mxGeometry x="571" y="393" width="269" height="60" as="geometry" />
         </mxCell>
         <mxCell id="technical-standard-system" value="服务状态监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="920" y="19.5" width="49" height="612" as="geometry" />
+          <mxGeometry x="900" y="120" width="49" height="511.5" as="geometry" />
         </mxCell>
         <mxCell id="security-management-system" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="19.5" width="49" height="612" as="geometry" />
