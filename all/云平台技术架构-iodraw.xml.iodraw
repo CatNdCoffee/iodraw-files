@@ -11,7 +11,7 @@
           <mxGeometry x="7" y="270" width="86" height="254" as="geometry" />
         </mxCell>
         <mxCell id="service-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="93" y="274" width="910" height="250" as="geometry" />
+          <mxGeometry x="93" y="274" width="787" height="250" as="geometry" />
         </mxCell>
         <mxCell id="framework-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="120" y="293.5" width="750" height="99" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="11" y="540" width="86" height="84" as="geometry" />
         </mxCell>
         <mxCell id="infrastructure-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="97" y="542" width="907" height="82" as="geometry" />
+          <mxGeometry x="97" y="542" width="783" height="82" as="geometry" />
         </mxCell>
         <mxCell id="database" value="TaurusDB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="157" y="561.5" width="125" height="43" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="abnjiYCYy8gDk6c_inpo-12" value="Druid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="500" y="323" width="134" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="abnjiYCYy8gDk6c_inpo-13" value="&lt;br&gt;&lt;div&gt;日志管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1021" y="180" width="49" height="462" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
