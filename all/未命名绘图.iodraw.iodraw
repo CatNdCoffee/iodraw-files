@@ -61,7 +61,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94O3WUpFbOZbMWMEopZy-50" value="数据库" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="94O3WUpFbOZbMWMEopZy-50" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;数据库&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="380" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
