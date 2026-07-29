@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="file-splitting" value="文件分割" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="461" y="30" width="165" height="59" as="geometry" />
+          <mxGeometry x="461" y="30" width="69" height="50" as="geometry" />
         </mxCell>
         <mxCell id="file-sending" value="文件传输" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="646" y="30" width="180" height="59" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="15" y="120" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="file-change-detection" value="文件变更检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="UQPZ9Tl1WvPhQjq1R6R9-3" vertex="1">
-          <mxGeometry x="16" y="150" width="74" height="50" as="geometry" />
+          <mxGeometry x="18" y="160" width="74" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
