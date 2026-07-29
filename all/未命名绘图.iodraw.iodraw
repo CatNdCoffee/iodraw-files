@@ -10,6 +10,9 @@
         <mxCell id="94O3WUpFbOZbMWMEopZy-1" value="前端应用" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A61D4;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="94O3WUpFbOZbMWMEopZy-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="94O3WUpFbOZbMWMEopZy-4" target="94O3WUpFbOZbMWMEopZy-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="94O3WUpFbOZbMWMEopZy-4" value="后端业务系统权限认证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A61D4;" vertex="1" parent="1">
           <mxGeometry x="275" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -99,6 +102,9 @@
         </mxCell>
         <mxCell id="94O3WUpFbOZbMWMEopZy-77" value="租户B认证信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="94O3WUpFbOZbMWMEopZy-79" value="后端业务系统权限认证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A61D4;" vertex="1" parent="1">
+          <mxGeometry x="275" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
