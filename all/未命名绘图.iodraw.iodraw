@@ -19,11 +19,11 @@
         <mxCell id="94O3WUpFbOZbMWMEopZy-6" value="租户A" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A61D4;" vertex="1" parent="1">
           <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="94O3WUpFbOZbMWMEopZy-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="380" width="200" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="94O3WUpFbOZbMWMEopZy-10" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="450" width="200" height="200" as="geometry" />
+          <mxGeometry x="130" y="450" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="94O3WUpFbOZbMWMEopZy-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="94O3WUpFbOZbMWMEopZy-10">
+          <mxGeometry x="-25" y="-70" width="200" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
