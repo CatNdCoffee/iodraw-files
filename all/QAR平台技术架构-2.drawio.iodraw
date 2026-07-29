@@ -70,11 +70,11 @@
         <mxCell id="analytics-service-label" value="分析计算&lt;br&gt;服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="160" y="301" width="105" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="analytics-management" value="分析计算管理服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="analytics-management" value="任务管理与编排服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="280" y="302" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mrs-spark-cluster" value="MRS（Spark）计算集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="565" y="302" width="265" height="60" as="geometry" />
+          <mxGeometry x="565" y="302" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="technical-standard-system" value="服务状态监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="19.5" width="49" height="612" as="geometry" />
