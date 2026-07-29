@@ -1,29 +1,29 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" compressed="false" version="24.7.17">
   <diagram id="qar-platform-architecture" name="QAR平台技术架构">
-    <mxGraphModel dx="1228" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="660" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="660" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="edge-layer-label" value="边缘&lt;br&gt;服务器层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="20" y="120" width="110" height="119" as="geometry" />
+          <mxGeometry x="10" width="110" height="119" as="geometry" />
         </mxCell>
         <mxCell id="edge-layer-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="120" width="755" height="119" as="geometry" />
+          <mxGeometry x="120" width="755" height="119" as="geometry" />
         </mxCell>
         <mxCell id="edge-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="154" y="137" width="707" height="85" as="geometry" />
+          <mxGeometry x="144" y="17" width="707" height="85" as="geometry" />
         </mxCell>
         <mxCell id="edge-service-label" value="文件采集&lt;br&gt;服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="166" y="149" width="105" height="61" as="geometry" />
+          <mxGeometry x="156" y="29" width="105" height="61" as="geometry" />
         </mxCell>
         <mxCell id="file-change-detection" value="文件变更检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="286" y="150" width="165" height="59" as="geometry" />
+          <mxGeometry x="276" y="30" width="165" height="59" as="geometry" />
         </mxCell>
         <mxCell id="file-splitting" value="文件分割" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="471" y="150" width="165" height="59" as="geometry" />
+          <mxGeometry x="461" y="30" width="165" height="59" as="geometry" />
         </mxCell>
         <mxCell id="file-sending" value="文件传输" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="656" y="150" width="180" height="59" as="geometry" />
+          <mxGeometry x="646" y="30" width="180" height="59" as="geometry" />
         </mxCell>
         <mxCell id="data-collection-layer-label" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="20" y="253" width="110" height="240" as="geometry" />
