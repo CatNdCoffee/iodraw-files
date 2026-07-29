@@ -67,18 +67,6 @@
         <mxCell id="grafana" value="Grafana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="335" y="459" width="134" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="auth-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="486" y="404" width="363" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="auth-label" value="认证&lt;br&gt;授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="496" y="420" width="61" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="oauth2" value="OAuth2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="560" y="436" width="134" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="https" value="HTTPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="705" y="436" width="134" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="infrastructure-label" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="11" y="540" width="86" height="84" as="geometry" />
         </mxCell>
@@ -108,6 +96,21 @@
         </mxCell>
         <mxCell id="abnjiYCYy8gDk6c_inpo-8" value="Druid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="335" y="306" width="134" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="abnjiYCYy8gDk6c_inpo-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="486" y="404" width="363" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="auth-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="abnjiYCYy8gDk6c_inpo-9" vertex="1">
+          <mxGeometry width="363" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="auth-label" value="认证&lt;br&gt;授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="abnjiYCYy8gDk6c_inpo-9" vertex="1">
+          <mxGeometry x="10" y="16" width="61" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="oauth2" value="OAuth2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="abnjiYCYy8gDk6c_inpo-9" vertex="1">
+          <mxGeometry x="74" y="32" width="134" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="https" value="HTTPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="abnjiYCYy8gDk6c_inpo-9" vertex="1">
+          <mxGeometry x="219" y="32" width="134" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
