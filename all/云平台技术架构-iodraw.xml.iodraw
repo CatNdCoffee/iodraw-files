@@ -4,33 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="access-label" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="14" y="104" width="86" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="access-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="100" y="104" width="779" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="gateway-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="127" y="114" width="729" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="gateway-label" value="网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="139" y="124" width="56" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="dynamic-routing" value="动态路由" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="202" y="124" width="108" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="request-filtering" value="请求过滤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="323" y="124" width="117" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="load-balancing" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="452" y="124" width="122" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="rate-limit-circuit-breaker" value="限流与熔断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="586" y="124" width="123" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="security-control" value="安全控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="720" y="124" width="123" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="service-label" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="14" y="190" width="86" height="254" as="geometry" />
         </mxCell>
