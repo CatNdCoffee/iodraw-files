@@ -67,18 +67,6 @@
         <mxCell id="raw-qar-storage" value="TaurusDB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="376.02312138728325" y="534.7404227212681" width="152.94797687861274" height="64.14398943196831" as="geometry" />
         </mxCell>
-        <mxCell id="analytics-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="263.8612716763006" y="361.33421400264206" width="599.8959537572255" height="93.49801849405549" as="geometry" />
-        </mxCell>
-        <mxCell id="analytics-service-label" value="分析计算&lt;br&gt;服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="274.0578034682081" y="374.3804491413474" width="89.21965317919076" height="67.40554821664465" as="geometry" />
-        </mxCell>
-        <mxCell id="analytics-management" value="任务管理与编排服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="376.02312138728325" y="375.46763540290624" width="224.32369942196536" height="63.056803170409516" as="geometry" />
-        </mxCell>
-        <mxCell id="mrs-spark-cluster" value="MRS（Spark）计算集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="618.1907514450867" y="375.46763540290624" width="228.5722543352601" height="65.23117569352709" as="geometry" />
-        </mxCell>
         <mxCell id="K6V5xHbPf51wfoqCP4qL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="582.5028901734104" y="520.607001321004" width="282.1040462427746" height="92.4108322324967" as="geometry" />
         </mxCell>
