@@ -41,16 +41,16 @@
           <mxGeometry x="243.46820809248555" y="220" width="641.5317919075145" height="260.92470277410837" as="geometry" />
         </mxCell>
         <mxCell id="data-collection-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="263.8612716763006" y="379.5421664464993" width="600.7456647398844" height="92.4108322324967" as="geometry" />
+          <mxGeometry x="264.7112716763006" y="360.0021664464993" width="600.7456647398844" height="92.4108322324967" as="geometry" />
         </mxCell>
         <mxCell id="data-collection-service-label" value="数据处理&lt;br&gt;服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="274.0578034682081" y="392.5884015852048" width="89.21965317919076" height="66.31836195508586" as="geometry" />
+          <mxGeometry x="274.9078034682081" y="373.0484015852048" width="89.21965317919076" height="66.31836195508586" as="geometry" />
         </mxCell>
         <mxCell id="data-cleaning" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="376.02312138728325" y="393.67558784676356" width="139.35260115606937" height="64.14398943196831" as="geometry" />
+          <mxGeometry x="376.8731213872833" y="374.13558784676354" width="139.35260115606937" height="64.14398943196831" as="geometry" />
         </mxCell>
         <mxCell id="data-loading" value="异常监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="690.4161849710983" y="392.5884015852048" width="156.34682080924856" height="64.14398943196831" as="geometry" />
+          <mxGeometry x="691.2661849710984" y="373.0484015852048" width="156.34682080924856" height="64.14398943196831" as="geometry" />
         </mxCell>
         <mxCell id="data-storage-layer-label" value="数据&lt;br&gt;存储层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="150" y="502.12483487450464" width="93.46820809248555" height="129.37516512549539" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="274.9078034682081" y="250.05044914134743" width="89.21965317919076" height="67.40554821664465" as="geometry" />
         </mxCell>
         <mxCell id="analytics-management" value="任务管理与编排服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="376.8731213872833" y="251.13763540290626" width="224.32369942196536" height="63.056803170409516" as="geometry" />
+          <mxGeometry x="376.87" y="251.14" width="183.13" height="63.06" as="geometry" />
         </mxCell>
         <mxCell id="mrs-spark-cluster" value="MRS（Spark）计算集群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="619.0407514450867" y="251.13763540290626" width="228.5722543352601" height="65.23117569352709" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="694.6647398843932" y="534.7404227212681" width="152.94797687861274" height="64.14398943196831" as="geometry" />
         </mxCell>
         <mxCell id="K6V5xHbPf51wfoqCP4qL-4" value="数据转译" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="533.2196531791908" y="392.5884015852048" width="143.60115606936418" height="64.14398943196831" as="geometry" />
+          <mxGeometry x="534.0696531791908" y="373.0484015852048" width="143.60115606936418" height="64.14398943196831" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
