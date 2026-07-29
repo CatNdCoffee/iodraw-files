@@ -41,10 +41,10 @@
           <mxGeometry x="157" y="561.5" width="125" height="43" as="geometry" />
         </mxCell>
         <mxCell id="dcs" value="分布式缓存&lt;br&gt;DCS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="444" y="561.5" width="125" height="43" as="geometry" />
+          <mxGeometry x="349" y="561.5" width="125" height="43" as="geometry" />
         </mxCell>
         <mxCell id="obs" value="对象存储&lt;br&gt;OBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="770" y="560.5" width="130" height="43" as="geometry" />
+          <mxGeometry x="520" y="561.5" width="130" height="43" as="geometry" />
         </mxCell>
         <mxCell id="message-queue" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="800" y="189" width="125" height="43" as="geometry" />
