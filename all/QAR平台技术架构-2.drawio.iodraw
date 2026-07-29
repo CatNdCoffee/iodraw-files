@@ -34,14 +34,14 @@
         <mxCell id="data-collection-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="154" y="267" width="707" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="data-collection-service-label" value="数据采集&lt;br&gt;服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="data-collection-service-label" value="数据处理&lt;br&gt;服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="166" y="279" width="105" height="61" as="geometry" />
         </mxCell>
         <mxCell id="data-cleaning" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="286" y="280" width="144" height="59" as="geometry" />
         </mxCell>
         <mxCell id="data-loading" value="监控统计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="656" y="279" width="139" height="59" as="geometry" />
+          <mxGeometry x="710" y="279" width="139" height="59" as="geometry" />
         </mxCell>
         <mxCell id="data-storage-layer-label" value="数据&lt;br&gt;存储层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="20" y="512.5" width="110" height="119" as="geometry" />
