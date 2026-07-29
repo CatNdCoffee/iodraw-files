@@ -73,7 +73,7 @@
         <mxCell id="oauth2" value="OAuth2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="abnjiYCYy8gDk6c_inpo-9" vertex="1">
           <mxGeometry x="74" y="32" width="134" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="https" value="HTTPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="abnjiYCYy8gDk6c_inpo-9" vertex="1">
+        <mxCell id="https" value="Sa-Token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=16;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="abnjiYCYy8gDk6c_inpo-9" vertex="1">
           <mxGeometry x="219" y="32" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="abnjiYCYy8gDk6c_inpo-11" value="" style="group" vertex="1" connectable="0" parent="1">
