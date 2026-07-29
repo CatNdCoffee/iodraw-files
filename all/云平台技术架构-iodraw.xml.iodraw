@@ -88,15 +88,6 @@
         <mxCell id="infrastructure-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="100" y="448" width="907" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="paas-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="124" y="464" width="854" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="paas-label" value="PaaS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="124" y="465" width="79" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cce" value="云容器引擎&lt;br&gt;CCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="234" y="478" width="125" height="43" as="geometry" />
-        </mxCell>
         <mxCell id="database" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="367" y="478" width="125" height="43" as="geometry" />
         </mxCell>
