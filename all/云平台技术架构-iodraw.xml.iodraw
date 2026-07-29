@@ -62,10 +62,10 @@
           <mxGeometry x="364" y="323" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="abnjiYCYy8gDk6c_inpo-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="510" y="400" width="363" height="105" as="geometry" />
+          <mxGeometry x="500" y="400" width="363" height="105" as="geometry" />
         </mxCell>
         <mxCell id="auth-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="abnjiYCYy8gDk6c_inpo-9" vertex="1">
-          <mxGeometry width="363" height="105" as="geometry" />
+          <mxGeometry width="363" height="100" as="geometry" />
         </mxCell>
         <mxCell id="auth-label" value="认证&lt;br&gt;授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="abnjiYCYy8gDk6c_inpo-9" vertex="1">
           <mxGeometry x="10" y="16" width="61" height="72" as="geometry" />
