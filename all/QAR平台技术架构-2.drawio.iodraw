@@ -80,7 +80,7 @@
           <mxGeometry x="383.21965317919074" y="31.528401585204758" width="143.60115606936418" height="64.14398943196831" as="geometry" />
         </mxCell>
         <mxCell id="UQPZ9Tl1WvPhQjq1R6R9-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="220" width="136" height="411.5" as="geometry" />
+          <mxGeometry x="30" y="220" width="136" height="411.5" as="geometry" />
         </mxCell>
         <mxCell id="edge-layer-label" value="边缘&lt;br&gt;服务器层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="UQPZ9Tl1WvPhQjq1R6R9-3" vertex="1">
           <mxGeometry width="110" height="94.1701923076923" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="10" y="100" width="90" height="300" as="geometry" />
         </mxCell>
         <mxCell id="edge-service-label" value="文件采集&lt;br&gt;服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="UQPZ9Tl1WvPhQjq1R6R9-3" vertex="1">
-          <mxGeometry x="10" y="110" width="105" height="61" as="geometry" />
+          <mxGeometry x="10" y="110" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
