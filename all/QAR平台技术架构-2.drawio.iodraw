@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" compressed="false" version="24.7.17">
   <diagram id="qar-platform-architecture" name="QAR平台技术架构">
-    <mxGraphModel dx="1228" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="660" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="660" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="10" width="110" height="119" as="geometry" />
         </mxCell>
         <mxCell id="edge-layer-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="120" width="755" height="119" as="geometry" />
+          <mxGeometry x="10" y="119" width="755" height="119" as="geometry" />
         </mxCell>
         <mxCell id="edge-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="144" y="17" width="707" height="85" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="900" y="220" width="49" height="411.5" as="geometry" />
         </mxCell>
         <mxCell id="security-management-system" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="120" width="49" height="511.5" as="geometry" />
+          <mxGeometry x="950" y="220" width="49" height="411.5" as="geometry" />
         </mxCell>
         <mxCell id="UQPZ9Tl1WvPhQjq1R6R9-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="150" y="220" width="735" height="411.5" as="geometry" />
