@@ -65,7 +65,7 @@
           <mxGeometry x="124" y="389" width="755" height="119" as="geometry" />
         </mxCell>
         <mxCell id="data-storage-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="148" y="406" width="432" height="85" as="geometry" />
+          <mxGeometry x="148" y="406" width="332" height="85" as="geometry" />
         </mxCell>
         <mxCell id="taurusdb-label" value="结构化数据存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="160" y="418" width="105" height="61" as="geometry" />
@@ -96,6 +96,15 @@
         </mxCell>
         <mxCell id="security-management-system" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="970" y="19.5" width="49" height="612" as="geometry" />
+        </mxCell>
+        <mxCell id="K6V5xHbPf51wfoqCP4qL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" vertex="1" parent="1">
+          <mxGeometry x="523" y="406" width="332" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="K6V5xHbPf51wfoqCP4qL-2" value="结构化数据存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=18;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="535" y="418" width="105" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="K6V5xHbPf51wfoqCP4qL-3" value="TaurusDB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="655" y="419" width="180" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
