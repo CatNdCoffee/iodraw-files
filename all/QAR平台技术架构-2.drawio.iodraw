@@ -29,7 +29,7 @@
           <mxGeometry x="-970" y="290" width="110" height="119" as="geometry" />
         </mxCell>
         <mxCell id="data-collection-layer-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-860" y="290" width="755" height="119" as="geometry" />
+          <mxGeometry x="-860" y="290" width="755" height="240" as="geometry" />
         </mxCell>
         <mxCell id="data-collection-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="-836" y="307" width="707" height="85" as="geometry" />
