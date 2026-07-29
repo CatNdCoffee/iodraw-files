@@ -83,19 +83,19 @@
           <mxGeometry x="709" y="209" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="infrastructure-label" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontStyle=1;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="14" y="448" width="86" height="184" as="geometry" />
+          <mxGeometry x="11" y="440" width="86" height="184" as="geometry" />
         </mxCell>
         <mxCell id="infrastructure-bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#2B64B7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="100" y="550" width="907" height="82" as="geometry" />
+          <mxGeometry x="97" y="542" width="907" height="82" as="geometry" />
         </mxCell>
         <mxCell id="database" value="TaurusDB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="160" y="518.5" width="125" height="43" as="geometry" />
+          <mxGeometry x="157" y="510.5" width="125" height="43" as="geometry" />
         </mxCell>
         <mxCell id="dcs" value="分布式缓存&lt;br&gt;DCS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="359" y="518.5" width="125" height="43" as="geometry" />
+          <mxGeometry x="356" y="510.5" width="125" height="43" as="geometry" />
         </mxCell>
         <mxCell id="obs" value="对象存储&lt;br&gt;OBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="569" y="518.5" width="130" height="43" as="geometry" />
+          <mxGeometry x="820" y="561.5" width="130" height="43" as="geometry" />
         </mxCell>
         <mxCell id="message-queue" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2B64B7;strokeColor=#2B64B7;fontColor=#FFFFFF;fontSize=17;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="728" y="274" width="125" height="43" as="geometry" />
