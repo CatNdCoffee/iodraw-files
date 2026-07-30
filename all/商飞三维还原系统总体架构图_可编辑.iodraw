@@ -47,13 +47,13 @@
           <mxGeometry x="183" y="444" width="282" height="64" as="geometry" />
         </mxCell>
         <mxCell id="layer5_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="35" y="549" width="1210" height="135" as="geometry" />
+          <mxGeometry x="35" y="549" width="665" height="135" as="geometry" />
         </mxCell>
         <mxCell id="layer5_band" value="数据存储层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#D9822B;strokeColor=#D9822B;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="35" y="549" width="112" height="111" as="geometry" />
         </mxCell>
         <mxCell id="mysql" value="&lt;b&gt;MySQL&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="175" y="571" width="250" height="72" as="geometry" />
+          <mxGeometry x="160" y="571" width="250" height="72" as="geometry" />
         </mxCell>
         <mxCell id="redis" value="&lt;b&gt;Redis&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="443" y="571" width="250" height="72" as="geometry" />
