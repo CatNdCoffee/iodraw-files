@@ -58,8 +58,8 @@
         <mxCell id="redis" value="&lt;b&gt;Redis&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="440" y="571" width="250" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="nDXLSRrgcLbl9WjWDk4W-5" value="&lt;b&gt;Node.js / Fastify&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="424" y="341" width="282" height="64" as="geometry" />
+        <mxCell id="nDXLSRrgcLbl9WjWDk4W-5" value="&lt;b&gt;&amp;nbsp;Fastify&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="317.5" width="236" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
