@@ -22,7 +22,7 @@
         <mxCell id="layer2_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="159" width="1210" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="layer2_band" value="接入与表现层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#2B9DC5;strokeColor=#2B9DC5;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="layer2_band" value="接入层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#2B9DC5;strokeColor=#2B9DC5;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="35" y="159" width="112" height="113" as="geometry" />
         </mxCell>
         <mxCell id="layer3_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="nginx" value="&lt;b&gt;Nginx&lt;/b&gt;&lt;br&gt;静态资源与反向代理" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#ECF8FC;strokeColor=#2B9DC5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="175" width="217" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="cesium" value="&lt;b&gt;CesiumJS 三维场景&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#ECF8FC;strokeColor=#2B9DC5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="655" y="175" width="205" height="45" as="geometry" />
         </mxCell>
         <mxCell id="node" value="&lt;b&gt;Node.js / Fastify&lt;/b&gt;&lt;br&gt;&lt;b&gt;（端口 3000）&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="313" width="282" height="64" as="geometry" />
