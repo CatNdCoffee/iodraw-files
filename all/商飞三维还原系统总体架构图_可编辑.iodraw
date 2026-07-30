@@ -49,9 +49,6 @@
         <mxCell id="nginx" value="&lt;b&gt;Nginx&lt;/b&gt;&lt;br&gt;静态资源与反向代理" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#ECF8FC;strokeColor=#2B9DC5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="175" width="217" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="webapp" value="&lt;b&gt;Web 单页应用&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#ECF8FC;strokeColor=#2B9DC5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="425" y="175" width="205" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="cesium" value="&lt;b&gt;CesiumJS 三维场景&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#ECF8FC;strokeColor=#2B9DC5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="655" y="175" width="205" height="45" as="geometry" />
         </mxCell>
@@ -111,15 +108,6 @@
         </mxCell>
         <mxCell id="note" value="推荐生产部署：仅开放站点端口；3000 / 5000 / 3306 / 6379 限本机或受控内网" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EEF3F6;strokeColor=#AFC3D3;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#506477;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="175" y="651" width="1032" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="e_browser_nginx" value="HTTP / HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#176FA7;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#176FA7;labelBackgroundColor=#FFFFFF;" parent="1" source="browser" target="nginx" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e_nginx_web" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B9DC5;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2B9DC5;labelBackgroundColor=#FFFFFF;" parent="1" source="nginx" target="webapp" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e_web_cesium" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B9DC5;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2B9DC5;labelBackgroundColor=#FFFFFF;" parent="1" source="webapp" target="cesium" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_nginx_node" value="/qar/* · HTTP/JSON" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#176FA7;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#176FA7;labelBackgroundColor=#FFFFFF;" parent="1" source="nginx" target="node" edge="1">
           <mxGeometry relative="1" as="geometry" />
