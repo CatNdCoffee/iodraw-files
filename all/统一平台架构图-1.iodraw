@@ -392,7 +392,7 @@
           <mxGeometry x="424.8" y="727.5" width="37.06" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ppt-132" value="• 上架、下架&lt;br&gt;• 审核&lt;br&gt;• 版本发布、版本切换&lt;br&gt;• 可见范围控制" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=0;fontColor=#202A33;fontSize=18;fontFamily=微软雅黑;fontStyle=0;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="718.33" width="148.33" height="105" as="geometry" />
+          <mxGeometry x="456.67" y="718.33" width="148.33" height="105" as="geometry" />
         </mxCell>
         <mxCell id="ppt-133" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#17324D;strokeWidth=1.5;fontColor=#FFFFFF;fontSize=18;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;rounded=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="690" y="685.83" width="238.33" height="148.33" as="geometry" />
