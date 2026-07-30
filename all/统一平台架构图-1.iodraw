@@ -463,7 +463,7 @@
         <mxCell id="ppt-155" value="━━▶" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=0;fontColor=#17324D;fontSize=18;fontFamily=微软雅黑;fontStyle=1;align=left;verticalAlign=top;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1207.0800000000002" y="859.72" width="52.5" height="32.22" as="geometry" />
         </mxCell>
-        <mxCell id="huVHpyZbyX1vR2R886-w-1" value="" style="fontColor=#1B3A57;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#E8EDF2;strokeColor=#A9B6C2;gradientColor=none;gradientDirection=north;strokeWidth=1.5;shape=mxgraph.networks.pc;" parent="1" vertex="1">
+        <mxCell id="huVHpyZbyX1vR2R886-w-1" value="" style="fontColor=#1B3A57;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#E8EDF2;strokeColor=#000099;gradientColor=none;gradientDirection=north;strokeWidth=1.5;shape=mxgraph.networks.pc;" parent="1" vertex="1">
           <mxGeometry x="30" y="540" width="70" height="55.84" as="geometry" />
         </mxCell>
         <mxCell id="ppt-6" value="鸿蒙" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=1;fontColor=#202A33;fontSize=22;fontFamily=Arial Bold;fontStyle=1;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
