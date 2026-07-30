@@ -29,7 +29,7 @@
           <mxGeometry x="35" y="285" width="1210" height="119" as="geometry" />
         </mxCell>
         <mxCell id="layer3_band" value="接口编排层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#176FA7;strokeColor=#176FA7;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="35" y="290" width="112" height="114" as="geometry" />
+          <mxGeometry x="35" y="287" width="112" height="113" as="geometry" />
         </mxCell>
         <mxCell id="layer4_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="417" width="1210" height="119" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="183" y="97.5" width="347" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nginx" value="&lt;b&gt;Nginx&lt;/b&gt;&lt;br&gt;静态资源与反向代理" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#ECF8FC;strokeColor=#2B9DC5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="183" y="193.5" width="237" height="65" as="geometry" />
+          <mxGeometry x="181.5" y="183" width="237" height="65" as="geometry" />
         </mxCell>
         <mxCell id="node" value="&lt;b&gt;Node.js / Fastify&lt;/b&gt;&lt;br&gt;&lt;b&gt;（端口 3000）&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="320" width="282" height="64" as="geometry" />
