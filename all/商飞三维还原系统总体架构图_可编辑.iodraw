@@ -41,7 +41,7 @@
           <mxGeometry x="35" y="549" width="1210" height="135" as="geometry" />
         </mxCell>
         <mxCell id="layer5_band" value="数据存储层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#D9822B;strokeColor=#D9822B;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="35" y="549" width="112" height="135" as="geometry" />
+          <mxGeometry x="35" y="549" width="112" height="111" as="geometry" />
         </mxCell>
         <mxCell id="browser" value="&lt;b&gt;用户浏览器（Chrome / Edge，WebGL）&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="97.5" width="347" height="37" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="node" value="&lt;b&gt;Node.js / Fastify&lt;/b&gt;&lt;br&gt;&lt;b&gt;（端口 3000）&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="313" width="282" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="python" value="&lt;b&gt;Python / Flask&lt;/b&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#E8F6F3;strokeColor=#2A8C82;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+        <mxCell id="python" value="&lt;b&gt;Python / Flask&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#E8F6F3;strokeColor=#2A8C82;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="444" width="282" height="64" as="geometry" />
         </mxCell>
         <mxCell id="mysql" value="&lt;b&gt;MySQL&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
