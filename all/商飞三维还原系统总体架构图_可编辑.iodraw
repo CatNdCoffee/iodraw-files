@@ -55,15 +55,6 @@
         <mxCell id="cesium" value="&lt;b&gt;CesiumJS 三维场景&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#ECF8FC;strokeColor=#2B9DC5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="655" y="175" width="205" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="visual" value="&lt;b&gt;航迹、姿态、仪表与参数曲线&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#ECF8FC;strokeColor=#2B9DC5;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="885" y="175" width="322" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="model" value="C919 / A320 GLB 模型" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F7FCFE;strokeColor=#2B9DC5;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="655" y="231" width="205" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="static" value="Cesium / Web 静态资源" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F7FCFE;strokeColor=#2B9DC5;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="885" y="231" width="322" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="node" value="&lt;b&gt;Node.js / Fastify&lt;/b&gt;&lt;br&gt;&lt;b&gt;（端口 3000）&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="313" width="282" height="64" as="geometry" />
         </mxCell>
@@ -130,23 +121,11 @@
         <mxCell id="e_web_cesium" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B9DC5;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2B9DC5;labelBackgroundColor=#FFFFFF;" parent="1" source="webapp" target="cesium" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_cesium_visual" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B9DC5;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2B9DC5;labelBackgroundColor=#FFFFFF;" parent="1" source="cesium" target="visual" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e_nginx_node" value="/qar/* · HTTP/JSON" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#176FA7;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#176FA7;labelBackgroundColor=#FFFFFF;" parent="1" source="nginx" target="node" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_node_python" value="HTTP/JSON" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2A8C82;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2A8C82;labelBackgroundColor=#FFFFFF;" parent="1" source="node" target="python" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e_resources_static" value="资源加载" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B9DC5;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2B9DC5;labelBackgroundColor=#FFFFFF;" parent="1" target="static" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1225" y="555" />
-              <mxPoint x="1225" y="255" />
-            </Array>
-            <mxPoint x="1074.5" y="571" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
