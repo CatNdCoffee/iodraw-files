@@ -19,17 +19,11 @@
         <mxCell id="layer1_band" value="用户访问层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#176FA7;strokeColor=#176FA7;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="35" y="86" width="112" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="layer1_num" value="1" style="ellipse=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#176FA7;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="52" y="100" width="32" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="layer2_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="159" width="1210" height="113" as="geometry" />
         </mxCell>
         <mxCell id="layer2_band" value="接入与表现层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#2B9DC5;strokeColor=#2B9DC5;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="35" y="159" width="112" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="layer2_num" value="2" style="ellipse=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#2B9DC5;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="48" y="170" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="layer3_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="285" width="1210" height="119" as="geometry" />
@@ -37,26 +31,17 @@
         <mxCell id="layer3_band" value="接口编排层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#176FA7;strokeColor=#176FA7;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="35" y="285" width="112" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="layer3_num" value="3" style="ellipse=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#176FA7;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="52" y="328.5" width="32" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="layer4_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="417" width="1210" height="119" as="geometry" />
         </mxCell>
         <mxCell id="layer4_band" value="数据处理层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#2A8C82;strokeColor=#2A8C82;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="35" y="417" width="112" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="layer4_num" value="4" style="ellipse=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#2A8C82;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="52" y="460.5" width="32" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="layer5_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="549" width="1210" height="135" as="geometry" />
         </mxCell>
         <mxCell id="layer5_band" value="数据资源层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#D9822B;strokeColor=#D9822B;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="35" y="549" width="112" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="layer5_num" value="5" style="ellipse=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#D9822B;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="52" y="600.5" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="browser" value="&lt;b&gt;用户浏览器（Chrome / Edge，WebGL）&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="395" y="98" width="485" height="37" as="geometry" />
