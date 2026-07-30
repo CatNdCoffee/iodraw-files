@@ -34,8 +34,8 @@
         <mxCell id="layer3_band" value="接口编排层" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#176FA7;strokeColor=#176FA7;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="35" y="292" width="112" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="node" value="&lt;b&gt;Node.js&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="277.5" y="316.5" width="182.5" height="64" as="geometry" />
+        <mxCell id="node" value="&lt;b&gt;Node.js / Fastify&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="180" y="317.5" width="282" height="64" as="geometry" />
         </mxCell>
         <mxCell id="layer4_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="417" width="665" height="119" as="geometry" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="redis" value="&lt;b&gt;Redis&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="440" y="571" width="250" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="nDXLSRrgcLbl9WjWDk4W-5" value="&lt;b&gt;Node.js / Fastify&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="424" y="341" width="282" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
