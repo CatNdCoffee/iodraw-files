@@ -118,12 +118,6 @@
         <mxCell id="redis" value="&lt;b&gt;Redis（端口 6379）&lt;/b&gt;&lt;br&gt;CZML 与仪表时序缓存&lt;br&gt;有效期 1 小时" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="443" y="571" width="250" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="csvdata" value="&lt;b&gt;CSV 数据目录&lt;/b&gt;&lt;br&gt;QAR 原始飞行数据" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="711" y="571" width="213" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="resources" value="&lt;b&gt;Cesium / GLB 静态资源&lt;/b&gt;&lt;br&gt;场景资源与飞机模型" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="942" y="571" width="265" height="72" as="geometry" />
-        </mxCell>
         <mxCell id="note" value="推荐生产部署：仅开放站点端口；3000 / 5000 / 3306 / 6379 限本机或受控内网" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EEF3F6;strokeColor=#AFC3D3;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#506477;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="175" y="651" width="1032" height="23" as="geometry" />
         </mxCell>
@@ -145,32 +139,13 @@
         <mxCell id="e_node_python" value="HTTP/JSON" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2A8C82;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2A8C82;labelBackgroundColor=#FFFFFF;" parent="1" source="node" target="python" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_python_mysql" value="配置与索引查询" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2A8C82;strokeWidth=2;endArrow=classic;endFill=1;startArrow=classic;startFill=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2A8C82;labelBackgroundColor=#FFFFFF;" parent="1" source="python" target="mysql" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e_node_redis" value="缓存读写" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#176FA7;strokeWidth=2;endArrow=classic;endFill=1;startArrow=classic;startFill=1;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#176FA7;labelBackgroundColor=#FFFFFF;" parent="1" source="node" target="redis" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="483" y="350" />
-              <mxPoint x="483" y="545" />
-              <mxPoint x="568" y="545" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e_python_csv" value="本地文件读取" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2A8C82;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2A8C82;labelBackgroundColor=#FFFFFF;" parent="1" source="python" target="csvdata" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="535" />
-              <mxPoint x="818" y="535" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e_resources_static" value="资源加载" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B9DC5;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2B9DC5;labelBackgroundColor=#FFFFFF;" parent="1" source="resources" target="static" edge="1">
+        <mxCell id="e_resources_static" value="资源加载" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B9DC5;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2B9DC5;labelBackgroundColor=#FFFFFF;" parent="1" target="static" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1225" y="555" />
               <mxPoint x="1225" y="255" />
             </Array>
+            <mxPoint x="1074.5" y="571" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
