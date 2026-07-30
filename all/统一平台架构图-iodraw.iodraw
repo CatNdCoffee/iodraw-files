@@ -457,11 +457,8 @@
         <mxCell id="ppt-153" value="━━▶" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0066CC;strokeWidth=1;fontColor=#0049AD;fontSize=22;fontFamily=微软雅黑;fontStyle=1;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="413.78" y="864.17" width="63.28" height="25.89" as="geometry" />
         </mxCell>
-        <mxCell id="ppt-154" value="━━▶" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0066CC;strokeWidth=1;fontColor=#0049AD;fontSize=22;fontFamily=微软雅黑;fontStyle=1;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="145" y="862.89" width="63.28" height="25.89" as="geometry" />
-        </mxCell>
         <mxCell id="ppt-155" value="━━▶" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0066CC;strokeWidth=1;fontColor=#0049AD;fontSize=18;fontFamily=微软雅黑;fontStyle=1;align=left;verticalAlign=top;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="857.84" width="52.5" height="32.22" as="geometry" />
+          <mxGeometry x="1224.17" y="857.84" width="52.5" height="32.22" as="geometry" />
         </mxCell>
         <mxCell id="huVHpyZbyX1vR2R886-w-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="30" y="540" width="70" height="55.84" as="geometry" />
