@@ -307,9 +307,6 @@
         <mxCell id="ppt-103" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;应用 C&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=0;fontColor=#17324D;fontSize=28;fontFamily=微软雅黑;fontStyle=1;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1200" y="450" width="75" height="26.67" as="geometry" />
         </mxCell>
-        <mxCell id="ppt-104" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;• 页面 / 路由&lt;br&gt;• 在线运行&lt;br&gt;• 本地运行&lt;br&gt;• 通过 cts.sdk.js&lt;br&gt;• 调用能力&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=0;fontColor=#202A33;fontSize=19;fontFamily=微软雅黑;fontStyle=0;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="480.83" width="125" height="104.17" as="geometry" />
-        </mxCell>
         <mxCell id="ppt-105" value="•••••" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=0;fontColor=#17324D;fontSize=26;fontFamily=微软雅黑;fontStyle=1;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1204.17" y="625" width="66.67" height="23.33" as="geometry" />
         </mxCell>
