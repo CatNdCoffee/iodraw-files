@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="header" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#16324F;strokeColor=#16324F;" parent="1" vertex="1">
-          <mxGeometry width="1280" height="70" as="geometry" />
+          <mxGeometry width="700" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="title" value="商飞三维还原系统总体架构图" style="text=1;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=28;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="title" value="三维还原系统总体架构图" style="text=1;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=28;fontStyle=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="48" y="13" width="650" height="44" as="geometry" />
         </mxCell>
         <mxCell id="layer1_panel" value="" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D7E2EA;strokeWidth=1;" parent="1" vertex="1">
