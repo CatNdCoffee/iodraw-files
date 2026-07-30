@@ -496,6 +496,12 @@
         <mxCell id="huVHpyZbyX1vR2R886-w-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PC浏览器&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0066CC;strokeWidth=1;fontColor=#051237;fontSize=22;fontFamily=微软雅黑;fontStyle=0;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="553.34" width="87.5" height="29.17" as="geometry" />
         </mxCell>
+        <mxCell id="huVHpyZbyX1vR2R886-w-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142.5" y="890.06" as="sourcePoint" />
+            <mxPoint x="192.5" y="840.06" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
