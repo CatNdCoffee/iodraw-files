@@ -55,14 +55,11 @@
         <mxCell id="python" value="&lt;b&gt;Python / Flask&lt;/b&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#E8F6F3;strokeColor=#2A8C82;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="444" width="282" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="mysql" value="&lt;b&gt;MySQL（端口 3306）&lt;/b&gt;&lt;br&gt;航班索引 · 参数映射&lt;br&gt;机场跑道 · 页面配置" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+        <mxCell id="mysql" value="&lt;b&gt;MySQL&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="175" y="571" width="250" height="72" as="geometry" />
         </mxCell>
         <mxCell id="redis" value="&lt;b&gt;Redis&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF7EC;strokeColor=#D9822B;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="443" y="571" width="250" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="note" value="推荐生产部署：仅开放站点端口；3000 / 5000 / 3306 / 6379 限本机或受控内网" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EEF3F6;strokeColor=#AFC3D3;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#506477;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="175" y="651" width="1032" height="23" as="geometry" />
         </mxCell>
         <mxCell id="e_node_python" value="HTTP/JSON" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2A8C82;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2A8C82;labelBackgroundColor=#FFFFFF;" parent="1" source="node" target="python" edge="1">
           <mxGeometry relative="1" as="geometry" />
