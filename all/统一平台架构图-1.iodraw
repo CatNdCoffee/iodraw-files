@@ -10,7 +10,7 @@
         <mxCell id="ppt-2" value="" style="whiteSpace=wrap;html=1;fillColor=#1F4566;strokeColor=#1F4566;strokeWidth=1;fontColor=#FFFFFF;fontSize=18;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;rounded=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="20.83" y="15" width="195.83" height="39.17" as="geometry" />
         </mxCell>
-        <mxCell id="ppt-3" value="终端层" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=0;fontColor=#FFFFFF;fontSize=31;fontFamily=微软雅黑;fontStyle=1;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ppt-3" value="终端层" style="whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=none;strokeWidth=0;fontColor=#FFFFFF;fontSize=31;fontFamily=微软雅黑;fontStyle=1;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20.83" y="15.83" width="195.83" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="ppt-8" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#17324D;strokeWidth=1.5;fontColor=#FFFFFF;fontSize=18;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
