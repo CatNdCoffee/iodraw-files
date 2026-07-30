@@ -55,30 +55,6 @@
         <mxCell id="node" value="&lt;b&gt;Node.js / Fastify&lt;/b&gt;&lt;br&gt;&lt;b&gt;（端口 3000）&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#EAF4FB;strokeColor=#176FA7;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="313" width="282" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="node_api" value="统一 /qar 接口" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5FAFE;strokeColor=#176FA7;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="503" y="305" width="153" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="node_czml" value="CZML 转换" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5FAFE;strokeColor=#176FA7;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="671" y="305" width="153" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="node_quat" value="姿态四元数生成" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5FAFE;strokeColor=#176FA7;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="839" y="305" width="183" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="node_instr" value="仪表时序整理" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5FAFE;strokeColor=#176FA7;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="1037" y="305" width="170" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="node_log" value="Pino 日志" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5FAFE;strokeColor=#176FA7;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="503" y="350" width="153" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="node_cache" value="缓存键隔离" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5FAFE;strokeColor=#176FA7;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="671" y="350" width="153" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="node_agg" value="接口聚合" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5FAFE;strokeColor=#176FA7;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="839" y="350" width="183" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="node_json" value="统一 JSON 响应" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5FAFE;strokeColor=#176FA7;strokeWidth=1;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=0;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="1037" y="350" width="170" height="33" as="geometry" />
-        </mxCell>
         <mxCell id="python" value="&lt;b&gt;Python / Flask&lt;/b&gt;&lt;br&gt;&lt;b&gt;（端口 5000）&lt;/b&gt;" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#E8F6F3;strokeColor=#2A8C82;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#203445;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="183" y="444" width="282" height="64" as="geometry" />
         </mxCell>
@@ -108,9 +84,6 @@
         </mxCell>
         <mxCell id="note" value="推荐生产部署：仅开放站点端口；3000 / 5000 / 3306 / 6379 限本机或受控内网" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EEF3F6;strokeColor=#AFC3D3;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#506477;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="175" y="651" width="1032" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="e_nginx_node" value="/qar/* · HTTP/JSON" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#176FA7;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#176FA7;labelBackgroundColor=#FFFFFF;" parent="1" source="nginx" target="node" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_node_python" value="HTTP/JSON" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2A8C82;strokeWidth=2;endArrow=classic;endFill=1;startArrow=none;startFill=0;fontFamily=Microsoft YaHei;fontSize=11;fontStyle=1;fontColor=#2A8C82;labelBackgroundColor=#FFFFFF;" parent="1" source="node" target="python" edge="1">
           <mxGeometry relative="1" as="geometry" />
