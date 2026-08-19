@@ -70,7 +70,7 @@
         <mxCell id="e11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.50;exitY=0;entryX=0.18;entryY=1;" parent="1" source="obs" target="spark" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.51;exitY=0;entryX=0.83;entryY=1;" parent="1" source="batch" target="obs" edge="1">
+        <mxCell id="e12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;entryX=0.83;entryY=1;" parent="1" source="batch" target="obs" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.54;exitY=0;entryX=0.23;entryY=1;" parent="1" source="database" target="batch" edge="1">
