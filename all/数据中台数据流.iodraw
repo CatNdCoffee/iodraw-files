@@ -50,7 +50,10 @@
           <mxGeometry x="455.5" y="320" width="1264" height="77" as="geometry" />
         </mxCell>
         <mxCell id="7kM9p1RUa7YS-Q7FIBqr-5" value="QBD QAR数据" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#D6D6D6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="828" width="438" height="61" as="geometry" />
+          <mxGeometry x="1217" y="950" width="438" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-6" value="OBS对象存储" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="681" width="438" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
