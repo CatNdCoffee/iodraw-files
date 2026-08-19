@@ -22,15 +22,6 @@
         <mxCell id="railRight" value="" style="rounded=1;arcSize=18;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="2031" y="271" width="198" height="942" as="geometry" />
         </mxCell>
-        <mxCell id="serviceCard2" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="969" y="369" width="466" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="serviceCard3" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1462" y="369" width="466" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="serviceCard5" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="969" y="464" width="466" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="serviceCard6" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="1462" y="464" width="466" height="68" as="geometry" />
         </mxCell>
