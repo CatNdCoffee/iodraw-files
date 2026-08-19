@@ -24,8 +24,10 @@
         <mxCell id="dws" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DWS数据库&lt;/font&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="765" y="610" width="880" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.152;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="obs" target="dws" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="obs" target="7kM9p1RUa7YS-Q7FIBqr-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="obs" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;OBS对象存储&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="680" y="910" width="438" height="61" as="geometry" />
