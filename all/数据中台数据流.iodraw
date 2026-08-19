@@ -13,12 +13,13 @@
         <mxCell id="indicatorPlatform" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指标与标签管理平台&lt;/font&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#9ed8f5;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="1030" y="210" width="467" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.782;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="indicatorPlatform" edge="1">
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.719;exitY=0.055;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dws" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1390" y="600" as="sourcePoint" />
+            <mxPoint x="1398" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="7kM9p1RUa7YS-Q7FIBqr-3" edge="1">
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.352;exitY=0.027;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dws" target="7kM9p1RUa7YS-Q7FIBqr-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1500" y="400" as="targetPoint" />
             <mxPoint x="1076" y="600" as="sourcePoint" />
