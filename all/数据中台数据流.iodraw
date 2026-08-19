@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="downstream" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;业务平台&lt;/font&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#c7c7c7;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="1900" y="450" width="740" height="110" as="geometry" />
+          <mxGeometry x="1770" y="150" width="740" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7kM9p1RUa7YS-Q7FIBqr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="indicatorPlatform" target="7kM9p1RUa7YS-Q7FIBqr-3">
           <mxGeometry relative="1" as="geometry" />
@@ -64,6 +64,9 @@
           <mxGeometry x="-0.237" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.774;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dws" target="downstream">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
