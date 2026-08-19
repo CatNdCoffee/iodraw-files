@@ -16,6 +16,11 @@
         <mxCell id="7kM9p1RUa7YS-Q7FIBqr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dws" target="indicatorPlatform">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7kM9p1RUa7YS-Q7FIBqr-14">
+          <mxGeometry x="0.0705" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7kM9p1RUa7YS-Q7FIBqr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.835;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.835;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dws" target="7kM9p1RUa7YS-Q7FIBqr-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1500" y="400" as="targetPoint" />
