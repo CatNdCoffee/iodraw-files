@@ -13,7 +13,7 @@
         <mxCell id="dws" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DWS数据库&lt;/font&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="775" y="539" width="880" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="obs" value="OBS对象存储" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
+        <mxCell id="obs" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;OBS对象存储&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="690" y="681" width="438" height="61" as="geometry" />
         </mxCell>
         <mxCell id="batch" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模拟机数据采集端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ed8f5;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
@@ -49,13 +49,13 @@
         <mxCell id="7kM9p1RUa7YS-Q7FIBqr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7kM9p1RUa7YS-Q7FIBqr-5" target="7kM9p1RUa7YS-Q7FIBqr-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-5" value="QBD QAR数据" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#D6D6D6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;QBD QAR数据&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#D6D6D6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
           <mxGeometry x="1296" y="940" width="280" height="61" as="geometry" />
         </mxCell>
         <mxCell id="7kM9p1RUa7YS-Q7FIBqr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7kM9p1RUa7YS-Q7FIBqr-6" target="dws">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-6" value="数据清洗服务" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据清洗服务&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
           <mxGeometry x="1217" y="681" width="438" height="61" as="geometry" />
         </mxCell>
       </root>
