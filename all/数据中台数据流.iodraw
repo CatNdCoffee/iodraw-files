@@ -18,11 +18,6 @@
             <mxPoint x="1390" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.271;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.835;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dws" target="7kM9p1RUa7YS-Q7FIBqr-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1500" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dws" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DWS数据库&lt;/font&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="765" y="610" width="880" height="91" as="geometry" />
         </mxCell>
