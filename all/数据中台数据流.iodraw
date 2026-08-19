@@ -7,9 +7,6 @@
         <mxCell id="page" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#c8c8c8;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry width="2308" height="1274" as="geometry" />
         </mxCell>
-        <mxCell id="headerLine" value="" style="rounded=0;fillColor=#111111;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry y="143" width="2300" height="2" as="geometry" />
-        </mxCell>
         <mxCell id="downstream" value="" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#c7c7c7;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="520" y="173" width="1135" height="68" as="geometry" />
         </mxCell>
@@ -42,15 +39,6 @@
         </mxCell>
         <mxCell id="dataFile" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;whiteSpace=wrap;html=1;fillColor=#d6d6d6;strokeColor=#111111;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="866" y="1198" width="163" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="calloutTopLeft" value="" style="shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.88,0],[0.88,0.18],[1,0.45],[0.88,0.45],[0.88,1],[0,1]];whiteSpace=wrap;html=1;fillColor=#3b78c8;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="474" y="268" width="380" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="calloutTopRight" value="" style="shape=mxgraph.basic.polygon;polyCoords=[[0.07,0],[1,0],[1,1],[0.07,1],[0.07,0.50],[0,0.50],[0.07,0.16]];whiteSpace=wrap;html=1;fillColor=#3b78c8;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="1159" y="270" width="361" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="calloutSource" value="" style="shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.89,0],[0.89,0.23],[1,0.40],[0.89,0.57],[0.89,1],[0,1]];whiteSpace=wrap;html=1;fillColor=#3b78c8;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="162" y="1089" width="457" height="95" as="geometry" />
         </mxCell>
         <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.30;exitY=1;entryX=0.30;entryY=0;" parent="1" source="downstream" target="servicePlatform" edge="1">
           <mxGeometry relative="1" as="geometry" />
