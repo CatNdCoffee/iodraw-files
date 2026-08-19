@@ -26,16 +26,16 @@
           <mxGeometry x="468" y="792" width="1264" height="77" as="geometry" />
         </mxCell>
         <mxCell id="obs" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="468" y="944" width="438" height="61" as="geometry" />
+          <mxGeometry x="480" y="920" width="438" height="61" as="geometry" />
         </mxCell>
         <mxCell id="batch" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9ed8f5;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="624" y="1090" width="408" height="62" as="geometry" />
+          <mxGeometry x="640" y="1066" width="408" height="62" as="geometry" />
         </mxCell>
         <mxCell id="database" value="" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=15;whiteSpace=wrap;html=1;fillColor=#d6d6d6;strokeColor=#111111;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="628" y="1193" width="164" height="70" as="geometry" />
+          <mxGeometry x="644" y="1169" width="164" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dataFile" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;whiteSpace=wrap;html=1;fillColor=#d6d6d6;strokeColor=#111111;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="866" y="1198" width="163" height="65" as="geometry" />
+          <mxGeometry x="882" y="1174" width="163" height="65" as="geometry" />
         </mxCell>
         <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.30;exitY=1;entryX=0.30;entryY=0;" parent="1" source="downstream" target="servicePlatform" edge="1">
           <mxGeometry relative="1" as="geometry" />
