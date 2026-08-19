@@ -16,9 +16,6 @@
         <mxCell id="dws" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DWS数据库&lt;/font&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="775" y="539" width="880" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="componentStore" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="1596" y="653" width="219" height="74" as="geometry" />
-        </mxCell>
         <mxCell id="obs" value="OBS对象存储" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="690" y="681" width="438" height="61" as="geometry" />
         </mxCell>
@@ -51,6 +48,9 @@
         </mxCell>
         <mxCell id="7kM9p1RUa7YS-Q7FIBqr-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MRS大数据平台-Spark&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;opacity=96;" vertex="1" parent="1">
           <mxGeometry x="455.5" y="320" width="1264" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1322" y="672" width="318" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
