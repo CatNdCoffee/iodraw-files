@@ -10,12 +10,6 @@
         <mxCell id="headerLine" value="" style="rounded=0;fillColor=#111111;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry y="143" width="2300" height="2" as="geometry" />
         </mxCell>
-        <mxCell id="zoneLeft" value="" style="rounded=0;fillColor=#e9f1f9;strokeColor=none;opacity=90;" parent="1" vertex="1">
-          <mxGeometry x="43" y="158" width="203" height="1116" as="geometry" />
-        </mxCell>
-        <mxCell id="zoneCenterTop" value="" style="rounded=0;fillColor=#e9f1f9;strokeColor=none;opacity=90;" parent="1" vertex="1">
-          <mxGeometry x="280" y="158" width="1697" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="zoneCenterService" value="" style="rounded=0;fillColor=#e9f1f9;strokeColor=none;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="280" y="343" width="1697" height="213" as="geometry" />
         </mxCell>
@@ -28,23 +22,14 @@
         <mxCell id="zoneRight" value="" style="rounded=0;fillColor=#e9f1f9;strokeColor=none;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="2001" y="158" width="256" height="1116" as="geometry" />
         </mxCell>
-        <mxCell id="railLeft" value="" style="rounded=1;arcSize=18;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="65" y="271" width="163" height="942" as="geometry" />
-        </mxCell>
         <mxCell id="railRight" value="" style="rounded=1;arcSize=18;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="2031" y="271" width="198" height="942" as="geometry" />
-        </mxCell>
-        <mxCell id="topPanel" value="" style="rounded=0;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="452" y="178" width="1494" height="122" as="geometry" />
         </mxCell>
         <mxCell id="topCard1" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="470" y="228" width="406" height="54" as="geometry" />
         </mxCell>
         <mxCell id="topCard2" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="924" y="228" width="496" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="topCard3" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1449" y="228" width="497" height="54" as="geometry" />
         </mxCell>
         <mxCell id="serviceCard1" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="478" y="369" width="466" height="69" as="geometry" />
