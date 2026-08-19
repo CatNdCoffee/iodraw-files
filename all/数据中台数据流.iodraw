@@ -10,12 +10,6 @@
         <mxCell id="headerLine" value="" style="rounded=0;fillColor=#111111;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry y="143" width="2300" height="2" as="geometry" />
         </mxCell>
-        <mxCell id="zoneCenterLake" value="" style="rounded=0;fillColor=#e9f1f9;strokeColor=none;opacity=90;" parent="1" vertex="1">
-          <mxGeometry x="280" y="574" width="1697" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="zoneCenterSource" value="" style="rounded=0;fillColor=#e9f1f9;strokeColor=none;opacity=90;" parent="1" vertex="1">
-          <mxGeometry x="280" y="1085" width="1697" height="189" as="geometry" />
-        </mxCell>
         <mxCell id="zoneRight" value="" style="rounded=0;fillColor=#e9f1f9;strokeColor=none;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="2001" y="158" width="256" height="1116" as="geometry" />
         </mxCell>
@@ -25,9 +19,6 @@
         <mxCell id="serviceCard6" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="1462" y="464" width="466" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="lakePanel1" value="" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="493" y="726" width="643" height="241" as="geometry" />
-        </mxCell>
         <mxCell id="lakePanel2" value="" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="1254" y="726" width="642" height="322" as="geometry" />
         </mxCell>
@@ -36,15 +27,6 @@
         </mxCell>
         <mxCell id="lakePanel4" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="1272" y="966" width="605" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="obsPanel" value="" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="493" y="982" width="643" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="sourceCard1" value="" style="rounded=1;arcSize=10;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="451" y="1184" width="164" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sourceCard2" value="" style="rounded=1;arcSize=10;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="670" y="1184" width="164" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sourceCard3" value="" style="rounded=1;arcSize=10;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="893" y="1184" width="164" height="70" as="geometry" />
