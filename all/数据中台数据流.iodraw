@@ -73,7 +73,7 @@
         <mxCell id="e14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.50;exitY=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dataFile" target="batch" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-1" value="OBS对象存储" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-1" value="QBD" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
           <mxGeometry x="1154" y="1066" width="438" height="61" as="geometry" />
         </mxCell>
       </root>
