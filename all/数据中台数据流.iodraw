@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7kM9p1RUa7YS-Q7FIBqr-1" value="OBS对象存储" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="487" y="930" width="438" height="61" as="geometry" />
+          <mxGeometry x="1154" y="1066" width="438" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
