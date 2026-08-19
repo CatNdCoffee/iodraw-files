@@ -49,8 +49,8 @@
         <mxCell id="7kM9p1RUa7YS-Q7FIBqr-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MRS大数据平台-Spark&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;opacity=96;" vertex="1" parent="1">
           <mxGeometry x="455.5" y="320" width="1264" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-5" value="OBS对象存储" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
-          <mxGeometry x="700" y="691" width="438" height="61" as="geometry" />
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-5" value="QBD QAR数据" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="828" width="438" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
