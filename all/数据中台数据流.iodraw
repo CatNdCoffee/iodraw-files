@@ -28,21 +28,6 @@
         <mxCell id="lakePanel4" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="1272" y="966" width="605" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="sourceCard3" value="" style="rounded=1;arcSize=10;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="893" y="1184" width="164" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sourceCard4" value="" style="rounded=1;arcSize=10;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1115" y="1184" width="164" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sourceCard5" value="" style="rounded=1;arcSize=10;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1336" y="1184" width="164" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sourceCard6" value="" style="rounded=1;arcSize=10;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1558" y="1184" width="164" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sourceCard7" value="" style="rounded=1;arcSize=10;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1780" y="1184" width="164" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="downstream" value="" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#c7c7c7;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="520" y="173" width="1135" height="68" as="geometry" />
         </mxCell>
