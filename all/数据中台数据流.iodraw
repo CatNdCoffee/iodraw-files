@@ -38,22 +38,6 @@
             <mxPoint x="1143.35" y="381" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.42;exitY=0;entryX=0.93;entryY=1;" parent="1" source="tagPlatform" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1575.409999999998" y="433.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.19;exitY=0;entryX=0.50;entryY=1;" parent="1" source="dws" target="indicatorPlatform" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.53;exitY=0;entryX=0.63;entryY=1;" parent="1" source="dws" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1234.309999999999" y="433.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.52;exitY=0;entryX=0.71;entryY=1;" parent="1" source="componentStore" target="tagPlatform" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.98;exitY=0;entryX=0.50;entryY=1;" parent="1" target="componentStore" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1706.7199999999998" y="792" as="sourcePoint" />
