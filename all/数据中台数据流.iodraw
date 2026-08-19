@@ -7,9 +7,6 @@
         <mxCell id="downstream" value="" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#c7c7c7;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="520" y="173" width="1135" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="servicePlatform" value="" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#9ed8f5;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="518" y="381" width="1137" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="indicatorPlatform" value="" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#9ed8f5;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="705" y="463" width="467" height="45" as="geometry" />
         </mxCell>
@@ -31,23 +28,28 @@
         <mxCell id="dataFile" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模拟机RECORD服务器&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;whiteSpace=wrap;html=1;fillColor=#d6d6d6;strokeColor=#111111;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="587.25" y="1180" width="217.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.30;exitY=1;entryX=0.30;entryY=0;" parent="1" source="downstream" target="servicePlatform" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.30;exitY=1;entryX=0.30;entryY=0;" parent="1" source="downstream" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="859.1000000000013" y="381" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.55;exitY=0;entryX=0.55;entryY=1;" parent="1" source="servicePlatform" target="downstream" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.55;exitY=0;entryX=0.55;entryY=1;" parent="1" target="downstream" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1143.35" y="381" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="e3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.50;exitY=0;entryX=0.37;entryY=1;" parent="1" source="indicatorPlatform" target="servicePlatform" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.42;exitY=0;entryX=0.93;entryY=1;" parent="1" source="tagPlatform" target="servicePlatform" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.42;exitY=0;entryX=0.93;entryY=1;" parent="1" source="tagPlatform" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1575.409999999998" y="433.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.19;exitY=0;entryX=0.50;entryY=1;" parent="1" source="dws" target="indicatorPlatform" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.53;exitY=0;entryX=0.63;entryY=1;" parent="1" source="dws" target="servicePlatform" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.53;exitY=0;entryX=0.63;entryY=1;" parent="1" source="dws" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1234.309999999999" y="433.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.52;exitY=0;entryX=0.71;entryY=1;" parent="1" source="componentStore" target="tagPlatform" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -62,11 +64,6 @@
             <mxPoint x="872.48" y="792" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.14;exitY=0;entryX=0.11;entryY=1;" parent="1" target="servicePlatform" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="644.9599999999978" y="792" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.50;exitY=0;entryX=0.18;entryY=1;" parent="1" source="obs" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="695.52" y="869.0000000000005" as="targetPoint" />
@@ -77,6 +74,9 @@
         </mxCell>
         <mxCell id="e14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.50;exitY=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dataFile" target="batch" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7kM9p1RUa7YS-Q7FIBqr-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MRS大数据平台-Spark&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#fff2d6;strokeColor=#17385e;strokeWidth=2.5;opacity=96;" vertex="1" parent="1">
+          <mxGeometry x="455.5" y="320" width="1264" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
