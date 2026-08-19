@@ -42,11 +42,6 @@
         <mxCell id="dataFile" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模拟机RECORD服务器&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;whiteSpace=wrap;html=1;fillColor=#d6d6d6;strokeColor=#111111;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="790.25" y="1012" width="217.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.30;exitY=1;entryX=0.30;entryY=0;" parent="1" source="downstream" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="976.6000000000013" y="381" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.55;exitY=0;entryX=0.55;entryY=1;" parent="1" target="downstream" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1260.85" y="381" as="sourcePoint" />
