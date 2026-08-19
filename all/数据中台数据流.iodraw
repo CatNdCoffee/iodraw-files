@@ -10,24 +10,6 @@
         <mxCell id="headerLine" value="" style="rounded=0;fillColor=#111111;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry y="143" width="2300" height="2" as="geometry" />
         </mxCell>
-        <mxCell id="zoneRight" value="" style="rounded=0;fillColor=#e9f1f9;strokeColor=none;opacity=90;" parent="1" vertex="1">
-          <mxGeometry x="2001" y="158" width="256" height="1116" as="geometry" />
-        </mxCell>
-        <mxCell id="railRight" value="" style="rounded=1;arcSize=18;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="2031" y="271" width="198" height="942" as="geometry" />
-        </mxCell>
-        <mxCell id="serviceCard6" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1462" y="464" width="466" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="lakePanel2" value="" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1254" y="726" width="642" height="322" as="geometry" />
-        </mxCell>
-        <mxCell id="lakePanel3" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1272" y="882" width="605" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="lakePanel4" value="" style="rounded=1;arcSize=12;fillColor=#ffffff;strokeColor=#d9d9d9;strokeWidth=2;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="1272" y="966" width="605" height="82" as="geometry" />
-        </mxCell>
         <mxCell id="downstream" value="" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#c7c7c7;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="520" y="173" width="1135" height="68" as="geometry" />
         </mxCell>
@@ -67,14 +49,8 @@
         <mxCell id="calloutTopRight" value="" style="shape=mxgraph.basic.polygon;polyCoords=[[0.07,0],[1,0],[1,1],[0.07,1],[0.07,0.50],[0,0.50],[0.07,0.16]];whiteSpace=wrap;html=1;fillColor=#3b78c8;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="1159" y="270" width="361" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="calloutMidRight" value="" style="shape=mxgraph.basic.polygon;polyCoords=[[0.07,0],[1,0],[1,1],[0.07,1],[0.07,0.82],[0,0.68],[0.07,0.52]];whiteSpace=wrap;html=1;fillColor=#3b78c8;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="1817" y="577" width="393" height="105" as="geometry" />
-        </mxCell>
         <mxCell id="calloutSource" value="" style="shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.89,0],[0.89,0.23],[1,0.40],[0.89,0.57],[0.89,1],[0,1]];whiteSpace=wrap;html=1;fillColor=#3b78c8;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="162" y="1089" width="457" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="calloutLarge" value="" style="shape=mxgraph.basic.polygon;polyCoords=[[0.10,0],[1,0],[1,1],[0.10,1],[0.10,0.21],[0,0.10],[0.10,0.15]];whiteSpace=wrap;html=1;fillColor=#3b78c8;strokeColor=#17385e;strokeWidth=2.5;" parent="1" vertex="1">
-          <mxGeometry x="1744" y="797" width="487" height="382" as="geometry" />
         </mxCell>
         <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111111;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.30;exitY=1;entryX=0.30;entryY=0;" parent="1" source="downstream" target="servicePlatform" edge="1">
           <mxGeometry relative="1" as="geometry" />
